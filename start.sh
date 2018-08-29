@@ -66,8 +66,8 @@ read PRIVKEY
 rpcuser=$RPC_USER
 rpcpassword=$RPC_PASS
 rpcallowip=127.0.0.1
-rpcport=17511
-port=17510
+rpcport=9451
+port=9450
 listen=1
 server=1
 daemon=1
